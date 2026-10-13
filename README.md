@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Trupti Rani Mohapatro</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Excel+%7C+Power+BI+%7C+SQL+%7C+Python+%7C+Tableau;Aspiring+Data+Analyst+%F0%9F%93%8A;Turning+Data+into+Insights+%F0%9F%92%A1;From+Odisha%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst+%F0%9F%93%8A;Turning+Data+into+Insights+%F0%9F%92%A1;Excel+%7C+Power+BI+%7C+SQL+%7C+Python+%7C+Tableau;From+Odisha%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 </p>
 
 ---
