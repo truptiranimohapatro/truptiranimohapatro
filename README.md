@@ -1,4 +1,7 @@
-<h1 align="center"><img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=140&text=Hey!%20I%27m%20Trupti%20Rani%20Mohapatro&fontSize=34&fontColor=ffffff&fontAlign=50&fontAlignY=50" /></h1>
+<h1 align="center">Hi 👋, I'm Trupti Rani Mohapatro</h1>
+<h3 align="center">A passionate learner and developer from Odisha, India 🇮🇳</h3>
+
+---
 
 <h3 align="center">A Data Analytics Enthusiast from India</h3>
 <h3 align="center">Aspiring Data Analyst | Excel · SQL · Power BI</h3>
@@ -37,23 +40,37 @@
 
 <h3 align="left">My Certifications 📜 🎓 ✔️</h3>
 
-- [Introduction to Data Science](https://www.credly.com/badges/91f20daa-babc-45df-84db-477df47b2e7e/public_url) & [Data Analytics Essentials](https://www.credly.com/badges/4c5d599d-49cf-4c4e-8ec3-042c985a8b97/public_url) - by Cisco Networking Academy
+- [Junior Data Analyst - Agribusiness](https://d1d5cy0fmpy9m8.cloudfront.net/images/yuvaintern/completion_letters/completion-letter-140562_356507_1787314693.pdf) - by YuvaIntern
+
+- [Introduction to MS Excel](https://lms.simplilearn.com/courses/4277/Introduction%20to%20MS%20Excel/certificate/download-skillup) - by Simplilearn
+  
+- [Junior Data Analyst - Food Processing](https://d1d5cy0fmpy9m8.cloudfront.net/images/yuvaintern/completion_letters/completion-letter-140562_356533_1787239809.pdf) - by YuvaIntern
+
+- [Power BI for Beginners](https://lms.simplilearn.com/courses/4211/Power%20BI%20for%20Beginners/certificate/download-skillup) - by Simplilearn
+
+- [Data Analytics Essentials](https://www.credly.com/badges/4c5d599d-49cf-4c4e-8ec3-042c985a8b97/public_url) - by Cisco Networking Academy
 
 - [Career Essentials in Generative AI](https://www.linkedin.com/posts/trupti-rani-mohapatro-99545a36a_gen-ai-by-microsoft-and-linkedin-activity-7487027642613796864-03WJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFuMLgEBqd88QPio1Co997wimJoQEOejBeI) - by Microsoft and LinkedIn
 
-- [Foundations of Prompt Engineering](PASTE-LINK-HERE) - by Amazon Web Services
+- [Foundations of Prompt Engineering](https://skillbuilder.aws/learn/VF6H4SZ1BU/foundations-of-prompt-engineering/7U8XFUVXDT) - by Amazon Web Services
 
 - [Claude Code 101](https://verify.skilljar.com/c/cgmcdybk8gmu) - by Anthropic
 
 - [Agentic AI Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=2215465F5AC11CC7CD8B4296CA6251EBC5D82DB5A52A465A56B2A757863F990E) - by Oracle
+
+- [Data Analytics Job Simulation](https://www.theforage.com/simulations/deloitte-au/data-analytics-s5zy/completed) - by Deloitte
+
+- [Data Analytics Job Simulation](https://www.theforage.com/simulations/quantium/data-analytics-rqkb/completed) - by Forage
+
+- [Introduction to Data Science](https://www.credly.com/badges/91f20daa-babc-45df-84db-477df47b2e7e/public_url) - by Cisco Networking Academy
+  
+- [Python & it's Application](https://drive.google.com/file/d/1tEMhD9cDCoKXnvyMdng6ganV611A0cPC/view) - by Teckat
 
 <h3 align="left">Connect with me 🔗</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/trupti-rani-mohapatro-99545a36a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="mailto:truptiranimohapatro@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30" /></a>
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=truptiranimohapatro&label=Profile%20views&color=0e75b6&style=flat" alt="truptiranimohapatro" /> </p>
 
 <h3 align="left">Languages and Tools 🛠️</h3>
 <p align="left">
