@@ -9,8 +9,7 @@
 <a href="mailto:truptiranimohapatro@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" height="20" /></a>
 <a href="https://github.com/truptiranimohapatro/" target="blank"><img align="center" src="https://img.shields.io/github/followers/truptiranimohapatro?label=Follow&style=social" alt="Follow" height="20" /></a>
 
-### Liked my Contribution: [Follow Me](https://github.com/truptiranimohapatro/) 👉 ⭐ ✨
-
+### Liked my Contributions:question:[Follow Me](https://github.com/truptiranimohapatro)
 - 👩‍💻 All about me is at [My LinkedIn](https://www.linkedin.com/in/trupti-rani-mohapatro-99545a36a/)
 
 - 🔭 I'm currently working on Data Analytics, Excel, SQL, Power BI & Data Visualization
