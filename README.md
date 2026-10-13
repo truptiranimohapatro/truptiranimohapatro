@@ -37,15 +37,15 @@
 
 <h3 align="left">My Certifications 📜 🎓 ✔️</h3>
 
-- Introduction to Data Science & Data Analytics Essentials - by Cisco Networking Academy
+- [Introduction to Data Science](https://www.credly.com/badges/91f20daa-babc-45df-84db-477df47b2e7e/public_url) & [Data Analytics Essentials](https://www.credly.com/badges/4c5d599d-49cf-4c4e-8ec3-042c985a8b97/public_url) - by Cisco Networking Academy
 
-- Career Essentials in Generative AI - by Microsoft and LinkedIn
+- [Career Essentials in Generative AI](https://www.linkedin.com/posts/trupti-rani-mohapatro-99545a36a_gen-ai-by-microsoft-and-linkedin-activity-7487027642613796864-03WJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFuMLgEBqd88QPio1Co997wimJoQEOejBeI) - by Microsoft and LinkedIn
 
-- Foundations of Prompt Engineering - by Amazon Web Services
+- [Foundations of Prompt Engineering](PASTE-LINK-HERE) - by Amazon Web Services
 
-- Claude Code 101 - by Anthropic
+- [Claude Code 101](https://verify.skilljar.com/c/cgmcdybk8gmu) - by Anthropic
 
-- Agentic AI Certified Foundations Associate - by Oracle
+- [Agentic AI Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=2215465F5AC11CC7CD8B4296CA6251EBC5D82DB5A52A465A56B2A757863F990E) - by Oracle
 
 <h3 align="left">Connect with me 🔗</h3>
 <p align="left">
