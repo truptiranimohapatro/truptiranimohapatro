@@ -6,7 +6,7 @@
 ---
 
 <h3 align="center">A Data Analytics Enthusiast from India</h3>
-<h3 align="center">Aspiring Data Analyst | Excel · SQL · Power BI</h3>
+<h3 align="center">Aspiring Data Analyst | Excel · Power BI · SQL · Tableau · Python</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=truptiranimohapatro&label=Profile%20views&color=0e75b6&style=flat" alt="truptiranimohapatro" /> </p>
 
