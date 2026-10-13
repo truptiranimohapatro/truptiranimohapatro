@@ -42,9 +42,9 @@
 
 <h3 align="left">My Certifications 📜 🎓 ✔️</h3>
 
-- [Introduction to MS Excel](https://lms.simplilearn.com/courses/4277/Introduction%20to%20MS%20Excel/certificate/download-skillup) - by Simplilearn
+- [Introduction to MS Excel](https://lms.simplilearn.com/courses/4277/Introduction-to-MS-Excel/certificate/download-skillup) - by Simplilearn
   
-- [Power BI for Beginners](https://lms.simplilearn.com/courses/4211/Power%20BI%20for%20Beginners/certificate/download-skillup) - by Simplilearn
+- [Power BI for Beginners](https://lms.simplilearn.com/courses/4211/Power-BI-for-Beginners/certificate/download-skillup) - by Simplilearn
 
 - [Data Analytics Essentials](https://www.credly.com/badges/4c5d599d-49cf-4c4e-8ec3-042c985a8b97/public_url) - by Cisco Networking Academy
 
