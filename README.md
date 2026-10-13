@@ -23,9 +23,9 @@
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/trupti-rani-mohapatro-99545a36a/) / [Email](mailto:truptiranimohapatro@gmail.com)
 
-- ⚡ Fun fact: ❤️ Learning new things 📊 Building dashboards 🍲 Food innovation
+- ⚡ Fun fact: 🎨 Drawing 📚 Reading Books ❤️ Learning new things 🍲 Food innovation
 
-<h3 align="left">What are my featured projects 👩‍💻</h3>
+<h3 align="left">What are my featured projects:question: 👨‍💻 🛰️</h3>
 
 <code>[Blinkit Sales Analysis - Power BI Dashboard](https://github.com/truptiranimohapatro/blinkit-sales-analysis-powerbi)</code> 📊
 
