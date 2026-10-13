@@ -15,20 +15,20 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-Trupti_Rani_Mohapatro-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/trupti-rani-mohapatro-99545a36a/?isSelfProfile=true"><img src="https://img.shields.io/badge/LinkedIn-Trupti_Rani_Mohapatro-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:truptiranimohapatro@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/truptiranimohapatro"><img src="https://img.shields.io/github/followers/truptiranimohapatro?label=Follow&style=social" /></a>
 </p>
 
 ### Liked my Contributions ❓ [Follow Me](https://github.com/truptiranimohapatro) 👉 ⭐ ✨
 
-- 👩‍💻 All about me is at [My LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
+- 👩‍💻 All about me is at [My LinkedIn](https://www.linkedin.com/in/trupti-rani-mohapatro-99545a36a/?isSelfProfile=true)
 - 🔭 I'm currently working on Data Analytics, Excel, SQL, Power BI & Data Visualization
 - 🌱 Exploring Python, Data Storytelling & Generative AI
 - 🎓 M.Tech in Processing and Food Engineering
 - 💬 Ask me about `var topics = [ "Excel", "SQL", "Power BI", "DAX", "Data Visualization" ]`
 - 📄 Know about my work & experiences: [My Resume](#)
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-ID) / [Email](mailto:truptiranimohapatro@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/trupti-rani-mohapatro-99545a36a/?isSelfProfile=true) / [Email](mailto:truptiranimohapatro@gmail.com)
 - ⚡ Fun fact: ❤️ Learning new things 📊 Building dashboards 🍲 Food innovation
 
 ### What are my featured projects ❓ 👩‍💻
@@ -52,7 +52,7 @@
 ### Connect with me 🔗
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/trupti-rani-mohapatro-99545a36a/?isSelfProfile=true"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:truptiranimohapatro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/truptiranimohapatro"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
