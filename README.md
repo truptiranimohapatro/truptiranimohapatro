@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Trupti Rani Mohapatro</h1>
-<h3 align="center">A passionate learner and developer from Odisha, India 🇮🇳</h3>
-
 ---
 
 <h3 align="center">A Data Analytics Enthusiast from India</h3>
