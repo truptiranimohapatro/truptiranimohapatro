@@ -42,12 +42,8 @@
 
 <h3 align="left">My Certifications 📜 🎓 ✔️</h3>
 
-- [Junior Data Analyst - Agribusiness](https://d1d5cy0fmpy9m8.cloudfront.net/images/yuvaintern/completion_letters/completion-letter-140562_356507_1787314693.pdf) - by YuvaIntern
-
 - [Introduction to MS Excel](https://lms.simplilearn.com/courses/4277/Introduction%20to%20MS%20Excel/certificate/download-skillup) - by Simplilearn
   
-- [Junior Data Analyst - Food Processing](https://d1d5cy0fmpy9m8.cloudfront.net/images/yuvaintern/completion_letters/completion-letter-140562_356533_1787239809.pdf) - by YuvaIntern
-
 - [Power BI for Beginners](https://lms.simplilearn.com/courses/4211/Power%20BI%20for%20Beginners/certificate/download-skillup) - by Simplilearn
 
 - [Data Analytics Essentials](https://www.credly.com/badges/4c5d599d-49cf-4c4e-8ec3-042c985a8b97/public_url) - by Cisco Networking Academy
@@ -66,8 +62,6 @@
 
 - [Introduction to Data Science](https://www.credly.com/badges/91f20daa-babc-45df-84db-477df47b2e7e/public_url) - by Cisco Networking Academy
   
-- [Python & it's Application](https://drive.google.com/file/d/1tEMhD9cDCoKXnvyMdng6ganV611A0cPC/view) - by Teckat
-
 <h3 align="left">Connect with me 🔗</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/trupti-rani-mohapatro-99545a36a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
