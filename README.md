@@ -1,5 +1,3 @@
-<h1 align="center">Hey! 👋 I'm Trupti Rani Mohapatro</h1>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=140&text=Hey!%20I%27m%20Trupti%20Rani%20Mohapatro&fontSize=34&fontColor=ffffff&fontAlign=50&fontAlignY=50" alt="Banner" />
 </p>
