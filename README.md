@@ -32,12 +32,34 @@
 <h3 align="left">What are my featured projects:question: 👨‍💻 🛰️</h3>
 
 <code>[Blinkit Sales Analysis - Power BI Dashboard](https://github.com/truptiranimohapatro/blinkit-sales-analysis-powerbi)</code> 📊
+<br>
+Sales performance by item type, outlet size, location and customer ratings, with KPIs and DAX measures.
 
 <code>[PhonePe UPI Transactions Analysis - Excel Dashboard](https://github.com/truptiranimohapatro/phonepe-upi-transaction-analysis)</code> 📊
+<br>
+UPI transaction trends across time, states and categories, built with pivot tables, charts and slicers.
 
-<code>Amazon E-Commerce Sales Dashboard - Excel</code> 📊 (coming soon)
+<code>[Amazon E-Commerce Sales Dashboard - Excel](https://github.com/truptiranimohapatro/amazon-ecommerce-sales-dashboard)</code> 📊
+<br>
+Revenue, orders and average order value analysed by product category, region and month in an interactive dashboard.
 
-<code>Swiggy Food Delivery Data Analysis - Excel</code> 📊 (coming soon)
+<code>[Swiggy Food Delivery Data Analysis - Excel](https://github.com/truptiranimohapatro/swiggy-food-delivery-analysis)</code> 📊
+<br>
+Ordering behaviour, delivery time, ratings and restaurant performance across cities and cuisines.
+
+<details>
+<summary>Project summary table 👇</summary>
+
+<br>
+
+| Project | Domain | Tools |
+|---------|--------|-------|
+| Blinkit Sales Analysis | Quick Commerce | Power BI, DAX |
+| PhonePe UPI Transactions Analysis | Fintech | Excel, Pivot Tables |
+| Amazon E-Commerce Sales Dashboard | E-Commerce | Excel, Pivot Tables, Slicers |
+| Swiggy Food Delivery Data Analysis | Food Delivery | Excel, Pivot Tables, Slicers |
+
+</details>
 
 <h3 align="left">My Certifications 📜 🎓 ✔️</h3>
 
