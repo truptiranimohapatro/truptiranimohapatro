@@ -13,7 +13,7 @@
 <a href="mailto:truptiranimohapatro@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" height="20" /></a>
 <a href="https://github.com/truptiranimohapatro/" target="blank"><img align="center" src="https://img.shields.io/github/followers/truptiranimohapatro?label=Follow&style=social" alt="Follow" height="20" /></a>
 
-### Liked my Contributions:question: [Follow Me](https://github.com/truptiranimohapatro):point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
+### Liked my Contributions: question: [Follow Me](https://github.com/truptiranimohapatro):point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
 
 - 👩‍💻 All about me is at [My LinkedIn](https://www.linkedin.com/in/trupti-rani-mohapatro-99545a36a/)
 
