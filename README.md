@@ -13,7 +13,7 @@
 <a href="mailto:truptiranimohapatro@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" height="20" /></a>
 <a href="https://github.com/truptiranimohapatro/" target="blank"><img align="center" src="https://img.shields.io/github/followers/truptiranimohapatro?label=Follow&style=social" alt="Follow" height="20" /></a>
 
-### Liked my Contributions: question: [Follow Me](https://github.com/truptiranimohapatro):point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
+### Liked my Contributions: question: [Follow Me](https://github.com/truptiranimohapatro) :point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
 
 - 👩‍💻 All about me is at [My LinkedIn](https://www.linkedin.com/in/trupti-rani-mohapatro-99545a36a/)
 
@@ -46,20 +46,6 @@ Revenue, orders and average order value analysed by product category, region and
 <code>[Swiggy Food Delivery Data Analysis - Excel](https://github.com/truptiranimohapatro/swiggy-sales-dashboard-excel)</code> 📊
 <br>
 Ordering behaviour, delivery time, ratings and restaurant performance across cities and cuisines.
-
-<details>
-<summary>Project summary table 👇</summary>
-
-<br>
-
-| Project | Domain | Tools |
-|---------|--------|-------|
-| Blinkit Sales Analysis | Quick Commerce | Power BI, DAX |
-| PhonePe UPI Transactions Analysis | Fintech | Excel, Pivot Tables |
-| Amazon E-Commerce Sales Dashboard | E-Commerce | Excel, Pivot Tables, Slicers |
-| Swiggy Food Delivery Data Analysis | Food Delivery | Excel, Pivot Tables, Slicers |
-
-</details>
 
 <h3 align="left">My Certifications 📜 🎓 ✔️</h3>
 
