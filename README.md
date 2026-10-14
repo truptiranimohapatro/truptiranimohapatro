@@ -35,15 +35,15 @@
 <br>
 Sales performance by item type, outlet size, location and customer ratings, with KPIs and DAX measures.
 
-<code>[PhonePe UPI Transactions Analysis - Excel Dashboard](https://github.com/truptiranimohapatro/phonepe-upi-transaction-analysis)</code> 📊
+<code>[PhonePe UPI Transactions Analysis - Excel Dashboard](https://github.com/truptiranimohapatro/phonepe-upi-transaction-analysis-excel)</code> 📊
 <br>
 UPI transaction trends across time, states and categories, built with pivot tables, charts and slicers.
 
-<code>[Amazon E-Commerce Sales Dashboard - Excel](https://github.com/truptiranimohapatro/amazon-ecommerce-sales-dashboard)</code> 📊
+<code>[Amazon E-Commerce Sales Dashboard - Excel](https://github.com/truptiranimohapatro/amazon-sales-dashboard-excel)</code> 📊
 <br>
 Revenue, orders and average order value analysed by product category, region and month in an interactive dashboard.
 
-<code>[Swiggy Food Delivery Data Analysis - Excel](https://github.com/truptiranimohapatro/swiggy-food-delivery-analysis)</code> 📊
+<code>[Swiggy Food Delivery Data Analysis - Excel](https://github.com/truptiranimohapatro/swiggy-sales-dashboard-excel)</code> 📊
 <br>
 Ordering behaviour, delivery time, ratings and restaurant performance across cities and cuisines.
 
