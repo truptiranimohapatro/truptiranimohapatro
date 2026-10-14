@@ -29,7 +29,7 @@
 
 - ⚡ Fun fact: 🎨 Drawing 📚 Reading Books ❤️ Learning new things 🍲 Food innovation
 
-<h3 align="left">What are my featured projects:question: 👨‍💻 🛰️</h3>
+<h3 align="left">What are my featured projects: question: 👨‍💻 🛰️</h3>
 
 <code>[Blinkit Sales Analysis - Power BI Dashboard](https://github.com/truptiranimohapatro/blinkit-sales-analysis-powerbi)</code> 📊
 <br>
