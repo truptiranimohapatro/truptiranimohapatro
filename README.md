@@ -7,8 +7,6 @@
 
 <h3 align="center">Aspiring Data Analyst | Excel · Power BI · SQL · Python · Tableau</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=truptiranimohapatro&label=Profile%20views&color=0e75b6&style=flat" alt="truptiranimohapatro" /> </p>
-
 <a href="https://www.linkedin.com/in/trupti-rani-mohapatro-99545a36a/" target="blank"><img align="center" src="https://img.shields.io/badge/-Trupti_Rani_Mohapatro-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" height="20" /></a>
 <a href="mailto:truptiranimohapatro@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" height="20" /></a>
 <a href="https://github.com/truptiranimohapatro/" target="blank"><img align="center" src="https://img.shields.io/github/followers/truptiranimohapatro?label=Follow&style=social" alt="Follow" height="20" /></a>
