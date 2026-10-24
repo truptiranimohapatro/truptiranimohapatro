@@ -29,6 +29,10 @@
 
 <h3 align="left">What are my featured projects:question: 👨‍💻 🛰️</h3>
 
+<code>[Netflix Content Analysis - Power BI Dashboard](https://github.com/truptiranimohapatro/netflix-data-analysis-powerbi)</code> 📊
+<br>
+Netflix content analysis by genre, country, release year, ratings and duration, with interactive KPIs, visualizations and DAX measures.
+
 <code>[Blinkit Sales Analysis - Power BI Dashboard](https://github.com/truptiranimohapatro/blinkit-sales-analysis-powerbi)</code> 📊
 <br>
 Sales performance by item type, outlet size, location and customer ratings, with KPIs and DAX measures.
